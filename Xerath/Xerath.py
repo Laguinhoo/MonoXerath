@@ -7,7 +7,7 @@ Pickamento = 'Pickar.png'
 Banimento = 'Banir.png'
 ProcurinhaBan = 'ProcuraBan.png'
 
-ban = pyautogui.prompt(text="",title="Insira o nomde do campeão")
+ban = pyautogui.prompt(text="",title="Insira o nome do campeão")
 
 
 print("Programa iniciado")
